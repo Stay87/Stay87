@@ -22,4 +22,3 @@ Feel free to reach out to me on [LinkedIn](link-to-linkedin-profile)!
 [![LinkedIn](https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif)](https://www.linkedin.com/in/maxym-podolyak-a8a531187/)
 
 [![Portfolio](https://media0.giphy.com/media/fwmjvrjSLGO7CaBupN/giphy.gif?cid=790b7611k35pijaw5w7tfnk9vatc248d8rwrwoanqv1ez6yc&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://drive.google.com/file/d/1cKi-IG6LGMshCoXMTv8vo-6ddPL7pfmJ/view?usp=sharing)
-[![Portfolio]]https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/deliveries/53257165/original/web-plus-mobile-design_ws_1471992183/create-any-type-of-flat-icons-and-flat-design-illustrations.gif)()
