@@ -1,6 +1,6 @@
 <header >
   <a href="https://drive.google.com/file/d/1cKi-IG6LGMshCoXMTv8vo-6ddPL7pfmJ/view?usp=drive_link">
-<img src='https://github.com/Stay87/Stay87/assets/67052843/96497687-e850-443a-9159-c0617cf32782' style="height:200px;"/>
+<img src='https://github.com/Stay87/Stay87/assets/67052843/96497687-e850-443a-9159-c0617cf32782' style="width:100%;"/>
 </a>
 </header>
 ## About Me
