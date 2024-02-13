@@ -19,6 +19,6 @@ Here are some projects I've worked on:
 Feel free to reach out to me on [LinkedIn](link-to-linkedin-profile)!
 
 ## Let's Connect
-[![LinkedIn](https://i.pinimg.com/originals/0d/96/5c/0d965c639dad997285aa1e434c0bc7d5.gif)](https://www.linkedin.com/in/maxym-podolyak-a8a531187/)
+[![LinkedIn](https://images.squarespace-cdn.com/content/v1/5ac64f5e8ab722b3d5dd16e6/1602268021936-TVYBQPJ52KYAUV7R18EH/linkedin.gif)](https://www.linkedin.com/in/maxym-podolyak-a8a531187/)
 
 [![Portfolio](https://i0.wp.com/thenetworkvocal.com/wp-content/uploads/2022/10/966-privacy-policy-gradient.gif?resize=400%2C400&ssl=1)](https://drive.google.com/file/d/1cKi-IG6LGMshCoXMTv8vo-6ddPL7pfmJ/view?usp=sharing)
