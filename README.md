@@ -21,4 +21,4 @@ Feel free to reach out to me on [LinkedIn](link-to-linkedin-profile)!
 ## Let's Connect
 [![LinkedIn](https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif)](https://www.linkedin.com/in/maxym-podolyak-a8a531187/)
 
-[![Portfolio](https://media0.giphy.com/media/fwmjvrjSLGO7CaBupN/giphy.gif?cid=790b7611k35pijaw5w7tfnk9vatc248d8rwrwoanqv1ez6yc&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://drive.google.com/file/d/1cKi-IG6LGMshCoXMTv8vo-6ddPL7pfmJ/view?usp=sharing)
+[![Portfolio](https://i0.wp.com/thenetworkvocal.com/wp-content/uploads/2022/10/966-privacy-policy-gradient.gif?resize=400%2C400&ssl=1)](https://drive.google.com/file/d/1cKi-IG6LGMshCoXMTv8vo-6ddPL7pfmJ/view?usp=sharing)
