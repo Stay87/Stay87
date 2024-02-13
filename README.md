@@ -1,3 +1,4 @@
+![header](https://github.com/Stay87/Stay87/assets/67052843/
 ## About Me
 I'm a Manual QA Engineer with a passion for ensuring software quality through meticulous testing and automation. I have experience working with various technologies and tools, including Python, Selenium, SQL, PHP, HTML5, CSS3, Figma, Postman, TestLink, TestRail, Jira, GitHub, and DevTools.
 
