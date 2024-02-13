@@ -16,7 +16,7 @@ Here are some projects I've worked on:
 - [Project Name](link-to-project) - Brief description.
 
 ## 🌐 Socials:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/Maxym Podolyak](https://www.linkedin.com/in/maxym-podolyak-a8a531187)
+![Linkedin](https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/in/maxym-podolyak-a8a531187)
 &nbsp;
 
 # 💻 Tech Stack:
