@@ -15,9 +15,6 @@ Here are some projects I've worked on:
 - [Project Name](link-to-project) - Brief description.
 - [Project Name](link-to-project) - Brief description.
 
-## Contact Me
-Feel free to reach out to me on [LinkedIn](link-to-linkedin-profile)!
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Макс Подоляк) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Maxym Podolyak) 
 
