@@ -16,7 +16,9 @@ Here are some projects I've worked on:
 - [Project Name](link-to-project) - Brief description.
 
 ## Portfolio
-<img src='https://cdn-icons-png.flaticon.com/256/281/281769.png' style="height: 20px;"/>
+<a href="https://drive.google.com/file/d/1cKi-IG6LGMshCoXMTv8vo-6ddPL7pfmJ/view?usp=drive_link">
+<img src='https://cdn-icons-png.flaticon.com/256/281/281769.png' style="height: 40px;"/>
+</a>
 
 ## 🌐 Socials:
 [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxym-podolyak-a8a531187/)
